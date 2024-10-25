@@ -116,4 +116,4 @@ if ! shopt -oq posix; then
   fi
 fi
 
-eval "$(oh-my-posh init bash --config /omb-themes/craver.omp.json)"
+eval "$(oh-my-posh init bash --config /omb-themes/M365Princess.omp.json)"
