@@ -116,4 +116,4 @@ if ! shopt -oq posix; then
   fi
 fi
 
-eval "$(oh-my-posh init bash --config 'https://raw.githubusercontent.com/keytrap-x86/dotfiles/refs/heads/main/omp-theme.json')"
+eval "$(oh-my-posh init bash --config 'https://dpaste.com/7LDBNPUSW.txt')"
