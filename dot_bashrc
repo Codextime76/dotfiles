@@ -116,4 +116,4 @@ if ! shopt -oq posix; then
   fi
 fi
 
-eval "$(oh-my-posh init bash --config 'https://dpaste.com/7LDBNPUSW.txt')"
+eval "$(oh-my-posh init bash --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/refs/heads/main/themes/montys.omp.json')"
