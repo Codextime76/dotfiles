@@ -118,3 +118,4 @@ fi
 
 eval "$(oh-my-posh init bash --config /omb-themes/M365Princess.omp.json)"
 
+# TEST
